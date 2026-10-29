@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国法业务合规审查"
+  short_description: "审查业务模式、产品功能与市场准入，形成有依据的合规结论和整改方案"
+  default_prompt: "使用 $review-business-compliance，在中国法语境下评估以下业务的合规性，核查准入条件、关键义务和证据缺口，提出可执行的整改与上线条件。"
